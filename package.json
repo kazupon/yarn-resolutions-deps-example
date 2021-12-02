@@ -1,5 +1,5 @@
 {
-  "name": "yarn-resolutions-example",
+  "name": "yarn-resolutions-deps-example",
   "private": true,
   "version": "1.0.0",
   "workspaces": [
